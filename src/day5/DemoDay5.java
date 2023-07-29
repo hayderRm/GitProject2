@@ -6,4 +6,8 @@ public class DemoDay5 {
 		System.out.println("Today is 31 Degree...");
 	}
 
+		public static void getData() {
+		System.out.println("DATA...");
+	}
+
 }
